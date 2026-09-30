@@ -1,0 +1,5 @@
+# generated 2026-09-30T12:51:28+00:00
+postings: 429 (first seen in the last 3 days)
+pages: 11 (page-01.txt to page-11.txt)
+line format: firstSeen | company | title | location | startDate | url | description
+failed sites: none
