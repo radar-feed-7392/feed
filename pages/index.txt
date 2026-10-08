@@ -1,5 +1,5 @@
-# generated 2026-10-07T16:39:04+00:00
-postings: 46 (first seen in the last 4 days)
+# generated 2026-10-08T16:37:23+00:00
+postings: 57 (first seen in the last 4 days)
 pages: 2 (page-01.txt to page-02.txt)
 line format: firstSeen | company | title | location | startDate | url | description
 failed sites: none
